@@ -5,10 +5,12 @@ Dataset can  be downloaded [here](https://purdue0-my.sharepoint.com/:u:/g/person
 
 Cite the paper as:
 
-`@article{wu2021bark,
+```bibtex
+@article{wu2021bark,
   title = {Deep BarkID: A Portable Tree Bark Identification System by Knowledge Distillation},
   author = {Wu, Fanyou and Gazo, Rado and Benes, Bedrich and Haviarova, Eva},
   journal = {European Journal of Forest Research},
   year = {2021},
   doi = {10.1007/s10342-021-01407-7}
-}`
+}
+```
