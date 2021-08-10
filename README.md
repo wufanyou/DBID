@@ -5,7 +5,7 @@ Dataset can be downloaded [here](https://purdue0-my.sharepoint.com/:u:/g/persona
 
 Paper can be viewed here [here](https://link.springer.com/article/10.1007/s10342-021-01407-7).
 
-Cite the paper as follow:
+Cite the paper as follow (bibtex):
 
 ```bibtex
 @article{wu2021bark,
