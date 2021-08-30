@@ -1,4 +1,4 @@
-# Authod: IconBall
+# Author: IconBall
 from sklearn.model_selection import StratifiedKFold
 import pandas as pd
 import sys
